@@ -96,7 +96,7 @@ if genre == 'Random':
     video4=open('791C7801-6BA6-4638-9065-BB13E89CC69D.mov','rb')
     st.video(video4)
     st.title('===============================')
-    video6 =open('lv_0_20221230172518','rb')
+    video6 =open('lv_0_20221230172518.mp4','rb')
     st.video(video6)
     st.title('===============================')
     video7 =open('lv_0_20221225085148.mp4','rb')
